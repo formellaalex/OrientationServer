@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OrientationServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OrientationServer.war">
+      <element id="artifact" artifact-name="OrientationServer:war exploded" />
+    </root>
+  </artifact>
+</component>

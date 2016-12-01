@@ -1,0 +1,6 @@
+com/soft/service/DbOperations.class
+com/soft/entity/Orientation.class
+com/soft/db/CreateDB.class
+com/soft/controllers/MainController.class
+com/soft/jobs/Jobs.class
+com/soft/entity/OrientationAvg.class
